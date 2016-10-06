@@ -1,0 +1,33 @@
+/*
+Theme Name: Site360 - SEDUCE
+Author: Equipe Web - Supervisão de Desenvolvimento de Sistemas - NUTIC/SEDUCE - GO
+Author URI: http://seduc.go.gov.br
+Description: Portal da Secretaria de Estado de Educação, Cultura e Esporte. Redesenhado como parte das práticas inovadoras promovidas pela Superintendência de Acompanhamento de Programas Institucionais - SAPI.
+Version: 1.0
+License: Copyright 2016.
+*/
+
+.content {
+  max-width: 1600px;
+  margin: auto;
+  padding: 0 15px;
+}
+.site-header {
+	padding: 15px 0 0;
+}
+.site-header nav {
+	margin-top: 20px;
+}
+.topo-info {
+	text-align: right;
+}
+.navbar {
+	background: #f9f9f9;
+	margin-bottom: 0;
+}
+.banner-destaques {
+	max-height: 550px;
+}
+.banner-destaques img {
+	width: 100%;
+}
